@@ -1,0 +1,11 @@
+1-sabah kalkıyorum
+2-okula gidiyorum
+3-derse giriyorum
+4-ders bittikten sonra okuldan çıkıyorum
+5-eve geliyorum
+6-yemek yiyorum
+7-spora gidiyorum
+8-spordan geliyorum
+9-duş alıyorum
+10-bilgisayarda oyun oynuyorum
+11-yatıyorum
